@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/epicurien"]
+	path = wp-content/themes/epicurien
+	url = https://github.com/ArguelBenoit/epicurien
