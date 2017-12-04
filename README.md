@@ -10,7 +10,7 @@ cd portfolio
 docker-compose up
 # run docker for dev
 
-docker-compose up -d
+docker-compose -f docker-compose-prod.yml up -d
 # run docker for prod
 
 ```
