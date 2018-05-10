@@ -1,3 +1,6 @@
 [submodule "wp-content/themes/epicurien"]
 	path = wp-content/themes/epicurien
 	url = https://github.com/ArguelBenoit/epicurien
+[submodule "wp-content/themes/epicrurien-react"]
+	path = wp-content/themes/epicrurien-react
+	url = git@github.com:ArguelBenoit/epicurien-react.git
